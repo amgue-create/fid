@@ -1,2 +1,2 @@
 # fid
-This repository is for use in DIG2500C
+This repository will be used for the class **Fundamentals of Interactive Design**
